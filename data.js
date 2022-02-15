@@ -14,13 +14,11 @@ const groceries = [
         isPurchased: false
     },
     {
-        item: 'Everythig Bagels',
+        item: 'Everything Bagels',
         brand: "JiCS' Bagels",
         units: '8 count',
         quantity: 0,
-        isPurchased: false
+        isPurchased: true
     },
 
 ]
-
-export default groceries;

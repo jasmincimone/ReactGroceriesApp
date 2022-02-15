@@ -1,0 +1,14 @@
+.container {
+    background-color: black;
+    color: whitesmoke;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 2%;
+    justify-content: center;
+}
+
+.app {
+    background-color: white;
+    color: black;
+    justify-content: center;
+}
